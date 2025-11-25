@@ -3,8 +3,6 @@
   ["#Test Name A",
     "#Test Name B",
     "&Test Name C",
-    "#Not_Zed_Technician"]
+    "#Not_Zed_Technician",
+  "^Gold Name?"]
 }
-
-
-
