@@ -1,10 +1,9 @@
 {
-  "TestValueA": "27",
-  "TestValueB": "555",
-  "TestValueC":
+"SupporterList":
   ["#Test Name A",
     "#Test Name B",
     "@Test Name C",
     "#Not_Zed_Technician"]
 
 }
+
