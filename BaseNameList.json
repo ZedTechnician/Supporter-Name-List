@@ -2,8 +2,9 @@
 "SupporterList":
   ["#Test Name A",
     "#Test Name B",
-    "@Test Name C",
+    "&Test Name C",
     "#Not_Zed_Technician"]
 
 }
+
 
